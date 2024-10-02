@@ -74,6 +74,11 @@ body {
   max-width: 5rem;
 }
 
+.side {
+  text-align: right;
+  font-size: smaller;
+}
+
 ul {
  list-style-type: square;
 }

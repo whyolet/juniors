@@ -74,6 +74,10 @@ body {
   max-width: 5rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 .side {
   text-align: right;
   font-size: smaller;
